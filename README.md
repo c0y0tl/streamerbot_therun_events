@@ -1,5 +1,5 @@
 # TheRun Events
-Stremer.bot extensions for listening to events TheRun
+Stremer.bot extensions for listening to events [TheRun.gg](https://therun.gg/)
 ## Setup
 * Go to the “Servers/Clients” > “Websocket Clients” tab in Stremer.bot.
 * Create a new web socket client.
