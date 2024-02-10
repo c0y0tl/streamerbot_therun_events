@@ -12,6 +12,6 @@ Stremer.bot extensions for listening to events TheRun
   - [ ] TLS 1.1
   - [x] TLS 1.2
 * Click the Import button in Stremer.bot
-* Drag the downloaded `TheRun` file into the Import String area, or copy its contents and paste manually
+* Drag the downloaded [`TheRun`](https://github.com/c0y0tl/therun.events/releases) file into the Import String area, or copy its contents and paste manually
 * The list of available variables is given in the comments to the action
 
