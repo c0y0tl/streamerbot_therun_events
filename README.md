@@ -14,4 +14,9 @@ Stremer.bot extensions for listening to events TheRun
 * Click the Import button in Stremer.bot
 * Drag the downloaded [`TheRun`](https://github.com/c0y0tl/therun.events/releases) file into the Import String area, or copy its contents and paste manually
 * The list of available variables is given in the comments to the action
+## Events
+* run_started_event
+* gold_split_event
+* run_ended_event
+* best_run_ever_event
 
